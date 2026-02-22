@@ -23,12 +23,12 @@ require (
 	github.com/facette/natsort v0.0.0-20181210072756-2cd4dd1e2dcb
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/go-kit/log v0.2.1
-	github.com/go-logfmt/logfmt v0.6.0
+	github.com/go-logfmt/logfmt v0.6.1
 	github.com/go-openapi/strfmt v0.23.0
 	github.com/go-zookeeper/zk v1.0.3
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/snappy v0.0.4
-	github.com/google/go-cmp v0.6.0
+	github.com/google/go-cmp v0.7.0
 	github.com/google/pprof v0.0.0-20240416155748-26353dc0451f
 	github.com/google/uuid v1.6.0
 	github.com/gophercloud/gophercloud v1.11.0
