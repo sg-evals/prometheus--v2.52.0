@@ -1,6 +1,6 @@
 module github.com/prometheus/prometheus
 
-go 1.21
+go 1.23
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.11.1
@@ -28,7 +28,7 @@ require (
 	github.com/go-zookeeper/zk v1.0.3
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/snappy v0.0.4
-	github.com/google/go-cmp v0.6.0
+	github.com/google/go-cmp v0.7.0
 	github.com/google/pprof v0.0.0-20240416155748-26353dc0451f
 	github.com/google/uuid v1.6.0
 	github.com/gophercloud/gophercloud v1.11.0
@@ -83,7 +83,7 @@ require (
 	google.golang.org/api v0.174.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20240415180920-8c6c420018be
 	google.golang.org/grpc v1.63.2
-	google.golang.org/protobuf v1.33.0
+	google.golang.org/protobuf v1.36.11
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.29.3
